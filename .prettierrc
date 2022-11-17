@@ -8,5 +8,3 @@
   "semi": true,
   "arrowParens": "avoid"
 }
-
-// {**/*,*}.{html,css,sass,scss,less, js,ts,jsx,tsx,vue,json}
